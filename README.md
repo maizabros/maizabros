@@ -40,7 +40,7 @@
 
 <h3>🚀 Featured Projects</h3>
 
-- 🎓 **BSc Thesis**: *Generating Labeled Human Faces Using GANs for Emotion Recognition* (private)
+- 🎓 **BSc Thesis**: *Generating Labeled Human Faces Using GANs for Emotion Recognition* [[thesis]](https://academica-e.unavarra.es/entities/publication/c76e0405-6881-4a96-b895-02fae716f18c) (private)
 - 🧑‍🔬 **Research Project**: *Enhancing DreamBooth With LoRA for Generating Unlimited Characters Using Stable Diffusion* [[paper]](https://ieeexplore.ieee.org/document/10651300) (private)
 
 ---
