@@ -15,8 +15,8 @@
 <h3>👨‍💻 About Me</h3>
 
 - 🧠 **AI Engineer** with 1.5+ years of experience, specializing in **Generative AI** and **Deep Learning**.
-- 📝 Co-author of a research paper for **IEEE WCCI 2024**.
-- 🤖 Experienced in **ML for industrial robotics**.
+- 📝 Co-author of an academic paper for **IEEE WCCI 2024**.
+- 🤖 Experience in **ML for industrial robotics**.
 - 💻 Former **Full-Stack Developer**, working on judicial software.
 - 🌍 Currently in **Tokyo** improving my Japanese (approx. **N3 level**).
 
@@ -41,7 +41,7 @@
 <h3>🚀 Featured Projects</h3>
 
 - 🎓 **BSc Thesis**: *Generating Labeled Human Faces Using GANs for Emotion Recognition* (private)
-- 🧑‍🔬 **Research Project**: *Enhancing DreamBooth With LoRA for Generating Unlimited Characters Using Stable Diffusion* (private)
+- 🧑‍🔬 **Research Project**: *Enhancing DreamBooth With LoRA for Generating Unlimited Characters Using Stable Diffusion* [[paper]](https://ieeexplore.ieee.org/document/10651300) (private)
 
 ---
 
