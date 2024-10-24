@@ -57,7 +57,7 @@
       srcset="https://github-readme-stats-maizabros.vercel.app/api/top-langs/?username=maizabros&layout=compact&theme=tokyo&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=150 src="github-readme-stats-maizabros.vercel.app/api/top-langs/?username=maizabros&layout=compact&theme=tokyo&langs_count=8" alt="Top Languages"/>
+    <img height=185 src="github-readme-stats-maizabros.vercel.app/api/top-langs/?username=maizabros&layout=compact&theme=tokyo&langs_count=8" alt="Top Languages"/>
   </picture>
   <picture>
     <source
@@ -68,7 +68,7 @@
       srcset="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&show_icons=true&theme=tokyo"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=150 src="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&show_icons=true&theme=tokyo" alt="Adrian's GitHub Stats" />
+    <img height=185 src="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&show_icons=true&theme=tokyo" alt="Adrian's GitHub Stats" />
   </picture>
   <picture>
     <source
@@ -79,7 +79,7 @@
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=maizabros&theme=tokyo"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=maizabros&theme=tokyo" alt="GitHub Streak" />
+    <img height=185 src="https://github-readme-streak-stats.herokuapp.com/?user=maizabros&theme=tokyo" alt="GitHub Streak" />
   </picture>
 </div>
 
