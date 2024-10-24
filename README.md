@@ -24,7 +24,7 @@
 
 <h3>🔧 Technologies & Tools</h3>
 
-<p>
+<p align=center>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
@@ -61,11 +61,11 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&rank_icon=github&include_all_commits=true&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&show_icons=true&theme=tokyo"
+      srcset="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&rank_icon=github&include_all_commits=true&show_icons=true&theme=tokyo"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=185 src="https://github-readme-stats-maizabros.vercel.app/api?username=maizabros&show_icons=true&theme=tokyo" alt="Adrian's GitHub Stats" />
